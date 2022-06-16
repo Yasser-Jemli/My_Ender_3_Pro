@@ -58,7 +58,7 @@ identified by the three coordinates X, Y and Z (length, width and height). These
 are transmitted from the computer by a 3D file which corresponds to the 3D model of the object to be
 to print.
 
-![grafik-1](https://user-images.githubusercontent.com/92098387/174153301-7d72488c-b88d-4eed-b327-f64a955ccc38.png)
+![fdm-printing](https://user-images.githubusercontent.com/92098387/174153837-7c2286a7-cf8f-40a3-bc2c-c76957e41e3a.jpg)
 
 # First - adding OCTOPI 
 
