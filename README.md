@@ -41,6 +41,9 @@ Stl specific files. obs. or amf. For this we must choose one of the many softwar
 computer-aided design (CAD), such as SolidWorks, Catia, Autodesk Fusion
 360...
 
+
+![digitalisation_FDT_Schnittstellen_04_w444](https://user-images.githubusercontent.com/92098387/174299458-44180e43-8546-492b-b395-fdedae9d1f44.png)
+
 # Slice the 3D object
 
 After having a finished 3D model, you must then slice the file or cut the file into several
