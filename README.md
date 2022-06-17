@@ -4,6 +4,9 @@ so this a repository that will reduce your time and your efforts in order to mak
 in this Repository i will help you make your 3D printing more Effective and share some problems that i have 
 i will share here all the problem that i face ,, how i figure it out and how you sould work with your 3D printer the Ender-3-pro 
 
+https://user-images.githubusercontent.com/92098387/174289375-d6a9af0a-9206-4e45-8190-49c29b157bed.mp4
+
+
 ![impresora_creality3d_ender_3_pro_001_l](https://user-images.githubusercontent.com/92098387/174154033-aa8afdad-d58f-4c1d-b97c-4457a4dc9f65.jpg)
 
 ![3d](https://user-images.githubusercontent.com/92098387/174154051-cd27ecc0-6ab9-470f-9e42-712e59261171.jpg)
