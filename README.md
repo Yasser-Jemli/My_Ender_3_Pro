@@ -132,6 +132,7 @@ than you might think, it doesn't give off any smell.
 ![index1](https://user-images.githubusercontent.com/92098387/174295338-48ab35e1-a6b0-4e78-ad0a-6be287f9fc19.jpeg)
 
 # 3. ABS (acrylonitrile butadiene styrene)
+
 It is the other favorite material of users of FDM type machines. The example given
 more often is that of Lego bricks, made of ABS. It offers more properties
 interesting than PLA in terms of water and heat resistance. Moreover, its rendering is
@@ -142,18 +143,27 @@ heated to prevent it from shrinking as it cools. It comes in several colors and 
 be in the form of coils of filament or in the form of liquid polymer for the process
 ALS.
 
+![71RmOIn8hkL _SL1500_](https://user-images.githubusercontent.com/92098387/174297917-c51f5483-f845-48ad-9366-1642075d2e7a.jpg)
+
+
 # 4. Polyamides (PA)
+
 Used in the laser sintering technique (SLS), they come in powder form. In
 the context of use with a filament deposition process, we find for example the
 nylon in the form of reels. Resistant and elastic, it melts at a temperature of 235 to 260°C
 and does not necessarily require a heating plate. The vast majority of polyamides are
 compatible with food contact
 
+![PA6-Nylon_Schweissdraht_4mm_Natur](https://user-images.githubusercontent.com/92098387/174297778-a2639972-59f5-46be-a1dc-f7c01e2db298.jpg)
+
+
 # 5. Resins
 
 Used in the SLA process, resins offer different physical properties specific to
 each type of resin. They allow very detailed and solid impressions, on shapes
 complex. Its very smooth rendering requires a fairly simple post-processing.
+
+![61ZJrBSgxPL _AC_UL320_](https://user-images.githubusercontent.com/92098387/174297681-f3ac8bbc-af81-4660-8583-39f9c45fae10.jpg)
 
 # 6. Support materials (PVA and HIPS)
 
