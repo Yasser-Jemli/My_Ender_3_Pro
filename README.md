@@ -53,6 +53,11 @@ than controlling the different parameters of the machine.
 G code is a machine tool command language that includes instructions for
 piloting , is the language known by the majority of CNC machines.
 
+
+![11](https://user-images.githubusercontent.com/92098387/174299826-5168c1b8-bd76-4b50-8700-00d8ced0d64c.png)
+
+
+
 # The impression
 
 Once the g code is ready, you can print by sending the g code to the printer
@@ -179,6 +184,9 @@ Biodegradable, a simple passage in water eliminates it
 
 
 # First - adding OCTOPI 
+
+
+![Octoprint-raspberry-pi-featured-image](https://user-images.githubusercontent.com/92098387/174299717-b6b54fe5-aec0-4393-88c1-01bd7e389894.jpg)
 
 will this is a great tool to have , so let's say you want to print something and you wanna to recored a video for the printing operation 
 or you wnat just to launch a printing without going  next to your printer or you have some concern about your printing process and you want to supervised 
