@@ -15,6 +15,7 @@ https://user-images.githubusercontent.com/92098387/174289375-d6a9af0a-9206-4e45-
 
 # General introduction 
 
+https://user-images.githubusercontent.com/92098387/174294693-611de60c-07ed-428f-bda5-bfd42ed3401e.mp4
 
 3D printing is a so-called additive manufacturing technique which proceeds by adding material, unlike techniques proceeding by removing material,
 such as machining. 3D printing makes it possible to produce everyday objects, spare parts or even prototypes intended for testing. 
@@ -65,9 +66,43 @@ layers which can have different contours and therefore by accumulation of materi
 to get the desired object. The print head moves in the three directions of space
 identified by the three coordinates X, Y and Z (length, width and height). These coordinates
 are transmitted from the computer by a 3D file which corresponds to the 3D model of the object to be
-to print.
+to print. ==> this is the technique for the Ender-3-pro
 
 ![fdm-printing](https://user-images.githubusercontent.com/92098387/174153837-7c2286a7-cf8f-40a3-bc2c-c76957e41e3a.jpg)
+
+the other techniques, I will talk about the theme a little bit  here and you will find them in the future in other repositories
+
+# Stereolithography (SLA)
+
+This is the first 3D printing technology, which appeared in 1986. In this case the point of
+nozzle is an ultraviolet laser and a tray of liquid photopolymer. As the deposit system of
+filament, this process prints layer by layer. The laser strikes the liquid which solidifies under
+the effect of ultraviolet light. A plate immersed in the tank supports the material thus solidified and
+descends, as for the FDM, to pass from one layer to the next.
+Once the printing is finished, the object must be rinsed to get rid of the remains of
+photopolymer with a solvent. The object is then put in the oven to solidify it. A
+constraint which is added to the relative slowness of the process.
+The usable materials remain quite few and despite the great precision offered by
+ALS, this technique delivers relatively fragile objects. It is therefore limited to
+prototyping rather than the production of objects.
+
+
+![schema-impression-3D-SLA-A3DM-Magazine](https://user-images.githubusercontent.com/92098387/174293813-c1884f08-ebf8-44f9-83af-d5af3b4d7052.jpg)
+
+# The DLP process
+
+DLP (Digital Light Processing) developed for work requiring high precision,
+such as jewelry or the manufacture of prostheses, the DLP process is based on the same
+technology than that which is embedded in many video projectors.
+The principle is similar to ALS, in that light is used to solidify a
+liquid polymer. A chip made up of a matrix of orientable mirrors, sometimes several
+million reflects a UV light and projects a kind of image corresponding to the shape of the
+layer to be printed. This light therefore strikes the polymer which is in a tank to
+solidify it. The processing is done layer by layer, as in the case of SLA
+
+![DLP-Process](https://user-images.githubusercontent.com/92098387/174294054-8df257e4-c01d-4daf-9166-0d0befaccd29.png)
+
+
 
 # First - adding OCTOPI 
 
