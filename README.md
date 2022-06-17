@@ -102,6 +102,67 @@ solidify it. The processing is done layer by layer, as in the case of SLA
 
 ![DLP-Process](https://user-images.githubusercontent.com/92098387/174294054-8df257e4-c01d-4daf-9166-0d0befaccd29.png)
 
+# The most used materials for 3D printing
+
+# 1. PLA (Polyactic Acid)
+
+It is a very common material in fused filament deposition 3D printing. He comes from
+of materials such as corn starch, which gives it the advantage of being biodegradable and
+usable in the manufacture of objects in contact with food, such as bowls or
+plates. On the other hand, it is sensitive to water and heat. Repeated contact with one or the other
+may cause damage.
+PLA melts at a temperature between 160 and 220°C and does not require a tray
+heating to be printed. While it responds well to post-processing such as painting, it is not
+not easy to make it perfectly smooth. Sanding does not give complete satisfaction since
+friction melts the material.
+
+
+
+![index](https://user-images.githubusercontent.com/92098387/174295077-897e6108-abc7-42ec-8d2a-86e20b6f4f68.jpeg)
+
+# 2. PET (polyethylene terephthalate)
+
+Obtained from petroleum, it is stronger than ABS and frees itself from the heating plate. He is
+used for parts that require both strength and flexibility. We find it
+especially in plastic bottles. Like PLA and ABS, PET is found in
+reel. The temperature necessary for its printing is of the order of 220°C. Contrary to this
+than you might think, it doesn't give off any smell.
+
+
+![index1](https://user-images.githubusercontent.com/92098387/174295338-48ab35e1-a6b0-4e78-ad0a-6be287f9fc19.jpeg)
+
+# 3. ABS (acrylonitrile butadiene styrene)
+It is the other favorite material of users of FDM type machines. The example given
+more often is that of Lego bricks, made of ABS. It offers more properties
+interesting than PLA in terms of water and heat resistance. Moreover, its rendering is
+smoother than what PLA offers. It therefore generally requires less processing on output
+of the machine.
+ABS requires a temperature of 200 to 250°C to melt. He also needs a tray
+heated to prevent it from shrinking as it cools. It comes in several colors and can
+be in the form of coils of filament or in the form of liquid polymer for the process
+ALS.
+
+# 4. Polyamides (PA)
+Used in the laser sintering technique (SLS), they come in powder form. In
+the context of use with a filament deposition process, we find for example the
+nylon in the form of reels. Resistant and elastic, it melts at a temperature of 235 to 260°C
+and does not necessarily require a heating plate. The vast majority of polyamides are
+compatible with food contact
+
+# 5. Resins
+
+Used in the SLA process, resins offer different physical properties specific to
+each type of resin. They allow very detailed and solid impressions, on shapes
+complex. Its very smooth rendering requires a fairly simple post-processing.
+
+# 6. Support materials (PVA and HIPS)
+
+PVA (polyvinyl alcohol) is used in 3D prints using filament deposition
+molten, especially with machines with several extrusion nozzles. It allows freedom
+supports printed in the same material as the part, often difficult to eliminate.
+Biodegradable, a simple passage in water eliminates it
+
+![HTB1CyI_flUSMeJjy1zkq6yWmpXa1](https://user-images.githubusercontent.com/92098387/174296506-49272736-0187-4eba-b7ea-a429b0b59bdc.jpg)
 
 
 # First - adding OCTOPI 
