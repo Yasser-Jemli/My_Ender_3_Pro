@@ -331,7 +331,10 @@ you can after that verify that  the bed is leveled or not by simply print  a bed
 
 <pre>
 
+
 https://user-images.githubusercontent.com/92098387/174432425-a67d82bf-41f1-4e94-8b4d-08fa0aacb8e7.mp4
+
+
 
 </pre>
 
