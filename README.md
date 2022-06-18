@@ -446,7 +446,15 @@ If you want to use a wireless Wi-Fi connection, you can follow the steps below f
 <br />  4 .Scroll down to where the text reads “WPA/WPA2 secured”, or to the type of network you’ll be using (“Open/unsecured”, “WEP”) and uncomment (delete the initial ‘#’ from) the four lines that start with a single ‘#’.
  <br /> 5 .Locate the “Properties” of the Wi-Fi network you want to connect your Pi to. (To view the properties of a network, you have to be connected to it, so make sure your device is connected to the Wi-Fi network.)
 
-![image](https://user-images.githubusercontent.com/92098387/174435391-51523b95-3c2e-4201-aa40-37ec06b43dd7.png)
+<pre>
+
+<p align="center">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/92098387/174435391-51523b95-3c2e-4201-aa40-37ec06b43dd7.png">
+</p>
+
+</pre>
+
+
 
 
  <br />  6 .Copy the “SSID” from the network properties list and paste it in the Notepad file where the text reads “put SSID here”.
@@ -460,18 +468,43 @@ Now that you’ve added network credentials to your OctoPi configuration files, 
  Finding the IP Address
  
  You can use Angry Ip Scanner to find the ip adress of teh raspberry pi  : https://angryip.org/
-![index](https://user-images.githubusercontent.com/92098387/174435903-590738e6-4e9b-41c1-bb0b-c948cc707c4d.jpeg)
+ 
+
+
+<pre>
+
+<p align="center">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/92098387/174435903-590738e6-4e9b-41c1-bb0b-c948cc707c4d.jpeg">
+</p>
+
+</pre>
+
+
 
 keep an eye on your 3D printing 
 
 https://user-images.githubusercontent.com/92098387/174436152-953ee008-afbb-46fb-b3a3-fd4a968b94b1.mp4
 
 
-#![index](https://user-images.githubusercontent.com/92098387/174435903-590738e6-4e9b-41c1-bb0b-c948cc707c4d.jpeg)
+
+<pre>
+
+<p align="center">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/92098387/174435903-590738e6-4e9b-41c1-bb0b-c948cc707c4d.jpeg">
+</p>
+
+</pre>
+
+
 
 
 
 # Controlling Your 3d Printer from anywhere [under_construction]
+
+
+
+
+
 
 
 # ENERGY CONSUMPTION :
