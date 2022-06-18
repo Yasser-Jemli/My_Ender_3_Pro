@@ -9,16 +9,6 @@ i will share here all the problem that i face ,, how i figure it out and how you
 https://user-images.githubusercontent.com/92098387/174289375-d6a9af0a-9206-4e45-8190-49c29b157bed.mp4
 
 
-<pre>
-
-<p align="center">
-  <img width="460" height="500" src="https://user-images.githubusercontent.com/92098387/174289375-d6a9af0a-9206-4e45-8190-49c29b157bed.mp4">
-</p>
-https://user-images.githubusercontent.com/92098387/174289375-d6a9af0a-9206-4e45-8190-49c29b157bed.mp4
-
-
-
-</pre>
 
 <pre>
 
