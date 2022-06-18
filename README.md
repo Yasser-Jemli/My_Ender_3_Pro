@@ -279,9 +279,8 @@ Biodegradable, a simple passage in water eliminates it
 </pre>
 
 
-```diff
 
-- # you must put on your gloves when working with the 3D printer in the bed or for removing parts or something similar
+# you must put on your gloves when working with the 3D printer in the bed or for removing parts or something similar
 
 
 # To work with ABS
