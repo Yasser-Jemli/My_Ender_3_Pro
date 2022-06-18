@@ -183,6 +183,59 @@ Biodegradable, a simple passage in water eliminates it
 ![HTB1CyI_flUSMeJjy1zkq6yWmpXa1](https://user-images.githubusercontent.com/92098387/174296506-49272736-0187-4eba-b7ea-a429b0b59bdc.jpg)
 
 
+# you must put on your gloves when working with the 3D printer in the bed or for removing parts or something similar 
+
+# To work with ABS
+
+
+Extruder Temperature:       at least 230 °C in the extruder.
+Bed Temperature:            between 80 and 100 °C.
+Adhesion support on plate:  absolutely necessary.
+Print speed:                maximum 60 mm/s.
+Retraction distance :       5 mm.
+Retraction speed :          45 mm/s.
+Cooling air :               not recommended, so the fan should off & we need to disconnect the other fan manually.
+
+# To work with PLA 
+
+
+Printing Temperature:       200 °C
+Bed temperature:            60 °C
+Speed:                      50 mm/s
+Layer height:               0.12 mm
+Retraction:                 6 mm at 25 mm/s
+Infill:                     20%
+Initial layer speed:        20 mm/s
+Initial fan speed:          100%
+
+
+things you need to know about PLA : https://www.youtube.com/watch?v=unmvWkfpmRE
+
+# Cura_Settings : 
+
+after extensive research it has been found that these parameters are the best … but we must always be careful of certain parameters for certain cases
+https://github.com/Vanethrane/Cura-Profiles/blob/master/Ender%203%20v2.curaprofile
+
+You can also follow this article which explains the problem you might be facing and how to make changes in your cura setting to make it work fine.
+https://all3dp.com/2/ender-3-cura-settings-best-ender-3-cura-profile/
+
+also we find those settings for making print time lower without increasing the speed  of the printer  
+https://www.youtube.com/watch?v=eVP7dVXIhOU
+
+# bed_leveling 
+ This is one of the most difficult parts in working with a 3D printer .. because a good leveling bed can give you good results  .. You just slip a piece of paper and make you z ax  in 0 and see how far the nozzle is from the bed   and try to make the bed closer  in order to get 0.1 mm and you will feel that paper makes a little resistance when you try to move it .
+
+
+< also you need always to clean your bed after this process with isopropyl alcohol > !!!!! 
+
+you can after that verify that  the bed is leveled or not by simply print  a bed level test 
+
+https://user-images.githubusercontent.com/92098387/174432425-a67d82bf-41f1-4e94-8b4d-08fa0aacb8e7.mp4
+
+
+
+
+
 # First - adding OCTOPI 
 
 
