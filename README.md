@@ -188,25 +188,24 @@ Biodegradable, a simple passage in water eliminates it
 # To work with ABS
 
 
-Extruder Temperature:       at least 230 °C in the extruder.
-Bed Temperature:            between 80 and 100 °C.
-Adhesion support on plate:  absolutely necessary.
-Print speed:                maximum 60 mm/s.
-Retraction distance :       5 mm.
-Retraction speed :          45 mm/s.
-Cooling air :               not recommended, so the fan should off & we need to disconnect the other fan manually.
+<br /> Extruder Temperature:       at least 230 °C in the extruder.
+<br /> Bed Temperature:            between 80 and 100 °C.
+<br /> Adhesion support on plate:  absolutely necessary.
+<br /> Print speed:                maximum 60 mm/s.
+<br /> Retraction distance :       5 mm.
+<br /> Retraction speed :          45 mm/s.
+<br /> Cooling air :               not recommended, so the fan should off & we need to disconnect the other fan manually.
 
 # To work with PLA 
 
 
-Printing Temperature:       200 °C
-Bed temperature:            60 °C
-Speed:                      50 mm/s
-Layer height:               0.12 mm
-Retraction:                 6 mm at 25 mm/s
-Infill:                     20%
-Initial layer speed:        20 mm/s
-Initial fan speed:          100%
+<br /> Printing Temperature:       200 °C
+<br /> Bed temperature:            60 °C
+<br /> Speed:                      50 mm/s
+<br /> Layer height:               0.12 mm
+<br /> Retraction:                 6 mm at 25 mm/s
+<br /> Initial layer speed:        20 mm/s
+<br /> Initial fan speed:          100%
 
 
 things you need to know about PLA : https://www.youtube.com/watch?v=unmvWkfpmRE
