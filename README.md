@@ -65,7 +65,7 @@ G code is a machine tool command language that includes instructions for
 piloting , is the language known by the majority of CNC machines.
 
 <p align="center">
-  <img width="500" height="500" src="hhttps://user-images.githubusercontent.com/92098387/174299826-5168c1b8-bd76-4b50-8700-00d8ced0d64c.png">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/92098387/174299826-5168c1b8-bd76-4b50-8700-00d8ced0d64c.png">
 </p>
 
 
@@ -88,7 +88,12 @@ identified by the three coordinates X, Y and Z (length, width and height). These
 are transmitted from the computer by a 3D file which corresponds to the 3D model of the object to be
 to print. ==> this is the technique for the Ender-3-pro
 
-![fdm-printing](https://user-images.githubusercontent.com/92098387/174153837-7c2286a7-cf8f-40a3-bc2c-c76957e41e3a.jpg)
+<p align="center">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/92098387/174153837-7c2286a7-cf8f-40a3-bc2c-c76957e41e3a.jpg">
+</p>
+
+
+!
 
 the other techniques, I will talk about the theme a little bit  here and you will find them in the future in other repositories
 
@@ -106,8 +111,12 @@ The usable materials remain quite few and despite the great precision offered by
 ALS, this technique delivers relatively fragile objects. It is therefore limited to
 prototyping rather than the production of objects.
 
+<p align="center">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/92098387/174293813-c1884f08-ebf8-44f9-83af-d5af3b4d7052.jpg">
+</p>
 
-![schema-impression-3D-SLA-A3DM-Magazine](https://user-images.githubusercontent.com/92098387/174293813-c1884f08-ebf8-44f9-83af-d5af3b4d7052.jpg)
+
+
 
 # The DLP process
 
