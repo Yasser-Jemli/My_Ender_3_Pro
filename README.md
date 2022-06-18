@@ -325,15 +325,31 @@ If you want to use a wireless Wi-Fi connection, you can follow the steps below f
 ![image](https://user-images.githubusercontent.com/92098387/174435391-51523b95-3c2e-4201-aa40-37ec06b43dd7.png)
 
 
- <br />  1 .   Copy the “SSID” from the network properties list and paste it in the Notepad file where the text reads “put SSID here”.
-    Type the password to replace where the text reads “put password” here.
-    Where the file includes a list of “country=” lines, uncomment the ‘#’ in front of your country name, and make sure there’s a ‘#’ in front of the other countries that you’re not in.
-    Save the Notepad file, making sure it overwrites the file on the microSD card.
-    Eject the microSD card from your device.
+ <br />  6 .Copy the “SSID” from the network properties list and paste it in the Notepad file where the text reads “put SSID here”.
+ <br />  7 .Type the password to replace where the text reads “put password” here.
+ <br />  8 .Where the file includes a list of “country=” lines, uncomment the ‘#’ in front of your country name, and make sure there’s a ‘#’ in front of the other countries that you’re not in.
+ <br />  9 .Save the Notepad file, making sure it overwrites the file on the microSD card.
+ <br />  10 .Eject the microSD card from your device.
 
 Now that you’ve added network credentials to your OctoPi configuration files, you can move on to the next step: booting up!
 
-# ENERGY CONSUMPTION :
+ Finding the IP Address
+ 
+ You can use Angry Ip Scanner to find the ip adress of teh raspberry pi  : https://angryip.org/
+![index](https://user-images.githubusercontent.com/92098387/174435903-590738e6-4e9b-41c1-bb0b-c948cc707c4d.jpeg)
+
+keep an eye on your 3D printing 
+
+https://user-images.githubusercontent.com/92098387/174436152-953ee008-afbb-46fb-b3a3-fd4a968b94b1.mp4
+
+
+#![index](https://user-images.githubusercontent.com/92098387/174435903-590738e6-4e9b-41c1-bb0b-c948cc707c4d.jpeg)
+
+
+
+# Controlling Your 3d Printer from anywhere [under_construction]
+
+ ENERGY CONSUMPTION :
 
 so in average it will consume like 125 Wh but it could reach 227Wh in best performance of our 3D printer ender 3 pro   
 so 
