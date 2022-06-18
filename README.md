@@ -280,7 +280,8 @@ Biodegradable, a simple passage in water eliminates it
 
 
 
-# you must put on your gloves when working with the 3D printer in the bed or for removing parts or something similar
+# you must put on your gloves when working with the 3D printer 
+  in the bed or for removing parts or something similar
 
 
 # To work with ABS
@@ -328,10 +329,20 @@ https://www.youtube.com/watch?v=eVP7dVXIhOU
 
 you can after that verify that  the bed is leveled or not by simply print  a bed level test 
 
+<pre>
+
 https://user-images.githubusercontent.com/92098387/174432425-a67d82bf-41f1-4e94-8b4d-08fa0aacb8e7.mp4
 
-![IMG_20220301_190921](https://user-images.githubusercontent.com/92098387/174433955-1d11a753-6b85-4649-b815-d7e70edb3d98.jpg)
-![Uploading IMG_20220408_104651.jpg…]()
+</pre>
+
+<pre>
+
+<p align="center">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/92098387/174433955-1d11a753-6b85-4649-b815-d7e70edb3d98.jpg">
+</p>
+
+</pre>
+
 
 
 # maintain the 3D printer :
