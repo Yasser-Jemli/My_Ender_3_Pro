@@ -341,9 +341,9 @@ https://user-images.githubusercontent.com/92098387/174432425-a67d82bf-41f1-4e94-
 
 # maintain the 3D printer :
 
-https://www.youtube.com/watch?v=ppkSVXiawvg
-https://www.youtube.com/watch?v=v8SwY8yveqc
-https://www.youtube.com/watch?v=kAafiApJs9A
+<br /> https://www.youtube.com/watch?v=ppkSVXiawvg
+<br /> https://www.youtube.com/watch?v=v8SwY8yveqc
+<br /> https://www.youtube.com/watch?v=kAafiApJs9A
 
 
 
@@ -487,13 +487,6 @@ https://user-images.githubusercontent.com/92098387/174436152-953ee008-afbb-46fb-
 
 
 
-<pre>
-
-<p align="center">
-  <img width="500" height="500" src="https://user-images.githubusercontent.com/92098387/174435903-590738e6-4e9b-41c1-bb0b-c948cc707c4d.jpeg">
-</p>
-
-</pre>
 
 
 
