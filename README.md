@@ -4,16 +4,27 @@ so this a repository that will reduce your time and your efforts in order to mak
 in this Repository i will help you make your 3D printing more Effective and share some problems that i have 
 i will share here all the problem that i face ,, how i figure it out and how you sould work with your 3D printer the Ender-3-pro 
 
+<pre>
+
 https://user-images.githubusercontent.com/92098387/174289375-d6a9af0a-9206-4e45-8190-49c29b157bed.mp4
 
+</pre>
+
+<pre>
 
 <p align="center">
   <img width="460" height="500" src="https://user-images.githubusercontent.com/92098387/174154033-aa8afdad-d58f-4c1d-b97c-4457a4dc9f65.jpg">
 </p>
 
+</pre>
+
+<pre>
+
 <p align="center">
   <img width="760" height="500" src="https://user-images.githubusercontent.com/92098387/174154051-cd27ecc0-6ab9-470f-9e42-712e59261171.jpg">
 </p>
+
+<p/re>
 
 
 
@@ -22,7 +33,11 @@ https://user-images.githubusercontent.com/92098387/174289375-d6a9af0a-9206-4e45-
 
 # General introduction 
 
+<pre>
+
 https://user-images.githubusercontent.com/92098387/174294693-611de60c-07ed-428f-bda5-bfd42ed3401e.mp4
+
+</pre>
 
 3D printing is a so-called additive manufacturing technique which proceeds by adding material, unlike techniques proceeding by removing material,
 such as machining. 3D printing makes it possible to produce everyday objects, spare parts or even prototypes intended for testing. 
@@ -39,10 +54,12 @@ stereolithography 3D printing (SLA for StereoLithography Apparatus)
 
 # Steps for 3D Printing
 
+<pre>
+
 <p align="center">
   <img width="500" height="400" src="https://user-images.githubusercontent.com/92098387/174151881-1df5ab15-83a4-4ac8-a19c-f8b8d7cfe973.png">
 </p>
-
+</pre>
 
 # Modeling and file export
 
@@ -51,9 +68,13 @@ Stl specific files. obs. or amf. For this we must choose one of the many softwar
 computer-aided design (CAD), such as SolidWorks, Catia, Autodesk Fusion
 360...
 
+<pre>
+
 <p align="center">
   <img width="600" height="400" src="https://user-images.githubusercontent.com/92098387/174299458-44180e43-8546-492b-b395-fdedae9d1f44.png">
 </p>
+
+</pre>
 
 # Slice the 3D object
 
@@ -64,11 +85,13 @@ than controlling the different parameters of the machine.
 G code is a machine tool command language that includes instructions for
 piloting , is the language known by the majority of CNC machines.
 
+<pre>
+
 <p align="center">
   <img width="500" height="500" src="https://user-images.githubusercontent.com/92098387/174299826-5168c1b8-bd76-4b50-8700-00d8ced0d64c.png">
 </p>
 
-
+</pre>
 
 # The impression
 
@@ -88,12 +111,14 @@ identified by the three coordinates X, Y and Z (length, width and height). These
 are transmitted from the computer by a 3D file which corresponds to the 3D model of the object to be
 to print. ==> this is the technique for the Ender-3-pro
 
+<pre>
+
 <p align="center">
   <img width="500" height="500" src="https://user-images.githubusercontent.com/92098387/174153837-7c2286a7-cf8f-40a3-bc2c-c76957e41e3a.jpg">
 </p>
 
+</pre>
 
-!
 
 the other techniques, I will talk about the theme a little bit  here and you will find them in the future in other repositories
 
@@ -111,11 +136,13 @@ The usable materials remain quite few and despite the great precision offered by
 ALS, this technique delivers relatively fragile objects. It is therefore limited to
 prototyping rather than the production of objects.
 
+<pre>
+
 <p align="center">
   <img width="500" height="500" src="https://user-images.githubusercontent.com/92098387/174293813-c1884f08-ebf8-44f9-83af-d5af3b4d7052.jpg">
 </p>
 
-
+</pre>
 
 
 # The DLP process
@@ -129,10 +156,13 @@ million reflects a UV light and projects a kind of image corresponding to the sh
 layer to be printed. This light therefore strikes the polymer which is in a tank to
 solidify it. The processing is done layer by layer, as in the case of SLA
 
+<pre>
+
 <p align="center">
   <img width="500" height="500" src="https://user-images.githubusercontent.com/92098387/174294054-8df257e4-c01d-4daf-9166-0d0befaccd29.png">
 </p>
 
+</pre>
 
 # The most used materials for 3D printing
 
@@ -148,11 +178,13 @@ heating to be printed. While it responds well to post-processing such as paintin
 not easy to make it perfectly smooth. Sanding does not give complete satisfaction since
 friction melts the material.
 
+<pre>
 
 <p align="center">
   <img width="500" height="500" src="https://user-images.githubusercontent.com/92098387/174295077-897e6108-abc7-42ec-8d2a-86e20b6f4f68.jpeg">
 </p>
 
+</pre>
 
 # 2. PET (polyethylene terephthalate)
 
@@ -162,11 +194,13 @@ especially in plastic bottles. Like PLA and ABS, PET is found in
 reel. The temperature necessary for its printing is of the order of 220°C. Contrary to this
 than you might think, it doesn't give off any smell.
 
+<pre>
 
 <p align="center">
   <img width="500" height="500" src="https://user-images.githubusercontent.com/92098387/174295338-48ab35e1-a6b0-4e78-ad0a-6be287f9fc19.jpeg">
 </p>
 
+</pre>
 
 # 3. ABS (acrylonitrile butadiene styrene)
 
@@ -198,7 +232,14 @@ nylon in the form of reels. Resistant and elastic, it melts at a temperature of 
 and does not necessarily require a heating plate. The vast majority of polyamides are
 compatible with food contact
 
-![PA6-Nylon_Schweissdraht_4mm_Natur](https://user-images.githubusercontent.com/92098387/174297778-a2639972-59f5-46be-a1dc-f7c01e2db298.jpg)
+<pre>
+
+<p align="center">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/92098387/174297778-a2639972-59f5-46be-a1dc-f7c01e2db298.jpg">
+</p>
+
+</pre>
+
 
 
 # 5. Resins
@@ -207,7 +248,16 @@ Used in the SLA process, resins offer different physical properties specific to
 each type of resin. They allow very detailed and solid impressions, on shapes
 complex. Its very smooth rendering requires a fairly simple post-processing.
 
-![61ZJrBSgxPL _AC_UL320_](https://user-images.githubusercontent.com/92098387/174297681-f3ac8bbc-af81-4660-8583-39f9c45fae10.jpg)
+
+
+<pre>
+
+<p align="center">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/92098387/174297681-f3ac8bbc-af81-4660-8583-39f9c45fae10.jpg">
+</p>
+
+</pre>
+
 
 # 6. Support materials (PVA and HIPS)
 
@@ -216,10 +266,27 @@ molten, especially with machines with several extrusion nozzles. It allows freed
 supports printed in the same material as the part, often difficult to eliminate.
 Biodegradable, a simple passage in water eliminates it
 
-![HTB1CyI_flUSMeJjy1zkq6yWmpXa1](https://user-images.githubusercontent.com/92098387/174296506-49272736-0187-4eba-b7ea-a429b0b59bdc.jpg)
+<pre>
+
+<p align="center">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/92098387/174296506-49272736-0187-4eba-b7ea-a429b0b59bdc.jpg">
+</p>
+
+</pre>
 
 
-# you must put on your gloves when working with the 3D printer in the bed or for removing parts or something similar 
+<pre>
+
+<p align="center">
+<span style="color: red">  # you must put on your gloves when working with the 3D printer in the bed or for removing parts or something similar </span>
+
+
+</p>
+
+</pre>
+
+# you must put on your gloves when working with the 3D printer in the bed or for removing parts or something similar
+
 
 # To work with ABS
 
