@@ -349,7 +349,8 @@ https://user-images.githubusercontent.com/92098387/174436152-953ee008-afbb-46fb-
 
 # Controlling Your 3d Printer from anywhere [under_construction]
 
- ENERGY CONSUMPTION :
+
+# ENERGY CONSUMPTION :
 
 so in average it will consume like 125 Wh but it could reach 227Wh in best performance of our 3D printer ender 3 pro   
 so 
