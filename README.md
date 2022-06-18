@@ -221,7 +221,8 @@ https://all3dp.com/2/ender-3-cura-settings-best-ender-3-cura-profile/
 also we find those settings for making print time lower without increasing the speed  of the printer  
 https://www.youtube.com/watch?v=eVP7dVXIhOU
 
-# bed_leveling 
+# bed_leveling
+
  This is one of the most difficult parts in working with a 3D printer .. because a good leveling bed can give you good results  .. You just slip a piece of paper and make you z ax  in 0 and see how far the nozzle is from the bed   and try to make the bed closer  in order to get 0.1 mm and you will feel that paper makes a little resistance when you try to move it .
 
 
@@ -231,15 +232,79 @@ you can after that verify that  the bed is leveled or not by simply print  a bed
 
 https://user-images.githubusercontent.com/92098387/174432425-a67d82bf-41f1-4e94-8b4d-08fa0aacb8e7.mp4
 
+![IMG_20220301_190921](https://user-images.githubusercontent.com/92098387/174433955-1d11a753-6b85-4649-b815-d7e70edb3d98.jpg)
+![Uploading IMG_20220408_104651.jpg…]()
 
+
+# maintain the 3D printer :
+
+https://www.youtube.com/watch?v=ppkSVXiawvg
+https://www.youtube.com/watch?v=v8SwY8yveqc
+https://www.youtube.com/watch?v=kAafiApJs9A
+
+# Changing the Filament while the printer is working :
+
+https://www.youtube.com/watch?v=Ply0L0C9DSc
+
+# optimize the time if you’re printing a big parts change the nozzel to a bigger one :
+
+This is a simple method to increase your print speed and feed rate. Using a larger nozzle is an easy way to print objects faster, but you will see a reduction in quality in the form of visible lines and rougher surfaces.
+When you print with lets say, a 0.2mm nozzle, you’re placing fine layers each time you go over the printing surface, so getting a 1mm height will take 5 extrusion movements over the area.
+in comparison to a 0.5mm nozzle it would only take 2 so you can see how nozzle size largely affects printing times.
+Nozzle size and layer height do have a relationship, where the general guideline is for you to have a layer height which is at most 75% of the nozzle’s diameter.
+So with a 0.4mm nozzle, you’d have a layer height of 0.3mm.
+
+https://www.youtube.com/watch?v=tM5obc-VLpQ
+
+# Maintenance Dates: 
+
+this is one of the most important document that you need to make and update it often ,  as it oversees the behavior of the 3D PRINTER
+so you need to write down the problems and how you manage to fix those problems , so in the futur you will optimize the time of maintenance and will determinate the weekness points of our 3D printer 
+
+# Using The Ultimaker Marketplace :
+
+The Ultimaker Marketplace lets you add extra functionality to Ultimaker Cura and streamline your 3D printing workflow. This includes plugins such as the Solidworks, Autodesk Inventor or Siemens NX integration: plugins which export files to Ultimaker Cura directly from your favorite CAD software. You can also find optimized material print profiles for third-party materials that are designed to work with Ultimaker 3D printers.
+
+https://www.youtube.com/watch?v=KjMqJ1LHivs
 
 
 
 # First - adding OCTOPI 
-
 
 ![Octoprint-raspberry-pi-featured-image](https://user-images.githubusercontent.com/92098387/174299717-b6b54fe5-aec0-4393-88c1-01bd7e389894.jpg)
 
 will this is a great tool to have , so let's say you want to print something and you wanna to recored a video for the printing operation 
 or you wnat just to launch a printing without going  next to your printer or you have some concern about your printing process and you want to supervised 
 from another place , well OCTOPI make it easy to you 
+
+
+
+There isn’t too much to setting up OctoPrint on an Ender 3. Here’s a list of everything you should have before you start:
+
+    Raspberry Pi board (e.g. Raspberry Pi 4)
+    Raspberry Pi power supply (5 V, 1.2+ A) and Micro-USB cable
+    MicroSD card (16+ GB of storage)
+    Connection USB cable (Mini-USB for the original and Pro; Micro-USB for the V2)
+    Internet-connected device (Linux, MacOS, and Windows are all supported)
+    Raspberry Pi Imager software
+
+Although you don’t need them, you may also want to have the following materials to enhance your OctoPrint setup and its capabilities:
+
+    Compatible Pi camera (for monitoring your machine)
+    Compatible Pi screen (for an attachable direct interface)
+    3D printed Pi case (to protect your board and make it look good!)
+
+
+
+# ENERGY CONSUMPTION :
+
+so in average it will consume like 125 Wh but it could reach 227Wh in best performance of our 3D printer ender 3 pro   
+so 
+for 24 HOURS it will consume 5.5 KWh ⇒
+that’s mean according to the official website of STEG 
+the cost of 24 hours of printing  5.5 * 0.3 = 1.65 DT.
+ 
+https://3dprinting.stackexchange.com/questions/8616/creality-ender-3-printer-power-consumption
+https://www.reddit.com/r/ender3/comments/b3nrow/power_consumption_creality_ender_3/
+https://3dsolved.com/ender-3-power-consumption/
+https://www.steg.com.tn/fr/clients_res/tarif_electricite.html
