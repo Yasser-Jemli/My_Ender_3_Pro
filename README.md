@@ -272,10 +272,10 @@ Biodegradable, a simple passage in water eliminates it
 
 
 # you must put on your gloves when working with the 3D printer 
-  in the bed or for removing parts or something similar
+# in the bed or for removing parts or something similar
 
 
-# To work with ABS
+# To work with ABS ==>
 
 
 <br /> Extruder Temperature:       at least 230 °C in the extruder.
@@ -286,7 +286,7 @@ Biodegradable, a simple passage in water eliminates it
 <br /> Retraction speed :          45 mm/s.
 <br /> Cooling air :               not recommended, so the fan should off & we need to disconnect the other fan manually.
 
-# To work with PLA 
+# To work with PLA ==>
 
 
 <br /> Printing Temperature:       200 °C
@@ -320,14 +320,14 @@ https://www.youtube.com/watch?v=eVP7dVXIhOU
 
 you can after that verify that  the bed is leveled or not by simply print  a bed level test 
 
-<pre>
+
 
 
 https://user-images.githubusercontent.com/92098387/174432425-a67d82bf-41f1-4e94-8b4d-08fa0aacb8e7.mp4
 
 
 
-</pre>
+
 
 <pre>
 
@@ -344,6 +344,24 @@ https://user-images.githubusercontent.com/92098387/174432425-a67d82bf-41f1-4e94-
 https://www.youtube.com/watch?v=ppkSVXiawvg
 https://www.youtube.com/watch?v=v8SwY8yveqc
 https://www.youtube.com/watch?v=kAafiApJs9A
+
+
+
+<pre>
+
+<p align="center">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/92098387/174433955-1d11a753-6b85-4649-b815-d7e70edb3d98.jpg">
+</p>
+
+</pre>
+
+
+
+https://user-images.githubusercontent.com/92098387/174440547-7a0785f1-6cc3-4df6-a6fa-0315fb6930e3.mp4
+
+
+
+
 
 # Changing the Filament while the printer is working :
 
