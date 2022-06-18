@@ -129,7 +129,10 @@ million reflects a UV light and projects a kind of image corresponding to the sh
 layer to be printed. This light therefore strikes the polymer which is in a tank to
 solidify it. The processing is done layer by layer, as in the case of SLA
 
-![DLP-Process](https://user-images.githubusercontent.com/92098387/174294054-8df257e4-c01d-4daf-9166-0d0befaccd29.png)
+<p align="center">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/92098387/174294054-8df257e4-c01d-4daf-9166-0d0befaccd29.png">
+</p>
+
 
 # The most used materials for 3D printing
 
@@ -146,8 +149,10 @@ not easy to make it perfectly smooth. Sanding does not give complete satisfactio
 friction melts the material.
 
 
+<p align="center">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/92098387/174295077-897e6108-abc7-42ec-8d2a-86e20b6f4f68.jpeg">
+</p>
 
-![index](https://user-images.githubusercontent.com/92098387/174295077-897e6108-abc7-42ec-8d2a-86e20b6f4f68.jpeg)
 
 # 2. PET (polyethylene terephthalate)
 
@@ -158,7 +163,10 @@ reel. The temperature necessary for its printing is of the order of 220°C. Cont
 than you might think, it doesn't give off any smell.
 
 
-![index1](https://user-images.githubusercontent.com/92098387/174295338-48ab35e1-a6b0-4e78-ad0a-6be287f9fc19.jpeg)
+<p align="center">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/92098387/174295338-48ab35e1-a6b0-4e78-ad0a-6be287f9fc19.jpeg">
+</p>
+
 
 # 3. ABS (acrylonitrile butadiene styrene)
 
@@ -172,7 +180,14 @@ heated to prevent it from shrinking as it cools. It comes in several colors and 
 be in the form of coils of filament or in the form of liquid polymer for the process
 ALS.
 
-![71RmOIn8hkL _SL1500_](https://user-images.githubusercontent.com/92098387/174297917-c51f5483-f845-48ad-9366-1642075d2e7a.jpg)
+<pre>
+
+<p align="center">
+  <img width="500" height="500" src="(https://user-images.githubusercontent.com/92098387/174297917-c51f5483-f845-48ad-9366-1642075d2e7a.jpg">
+</p>
+
+</pre>
+
 
 
 # 4. Polyamides (PA)
