@@ -4,9 +4,13 @@ so this a repository that will reduce your time and your efforts in order to mak
 in this Repository i will help you make your 3D printing more Effective and share some problems that i have 
 i will share here all the problem that i face ,, how i figure it out and how you sould work with your 3D printer the Ender-3-pro 
 
+
 <pre>
 
+
 https://user-images.githubusercontent.com/92098387/174289375-d6a9af0a-9206-4e45-8190-49c29b157bed.mp4
+
+
 
 </pre>
 
@@ -277,13 +281,11 @@ Biodegradable, a simple passage in water eliminates it
 
 <pre>
 
-<p align="center">
 <span style="color: red">  # you must put on your gloves when working with the 3D printer in the bed or for removing parts or something similar </span>
 
 
-</p>
-
 </pre>
+
 
 # you must put on your gloves when working with the 3D printer in the bed or for removing parts or something similar
 
