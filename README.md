@@ -5,6 +5,10 @@ in this Repository i will help you make your 3D printing more Effective and shar
 i will share here all the problem that i face ,, how i figure it out and how you sould work with your 3D printer the Ender-3-pro 
 
 
+
+https://user-images.githubusercontent.com/92098387/174289375-d6a9af0a-9206-4e45-8190-49c29b157bed.mp4
+
+
 <pre>
 
 <p align="center">
