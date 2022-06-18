@@ -39,7 +39,10 @@ stereolithography 3D printing (SLA for StereoLithography Apparatus)
 
 # Steps for 3D Printing
 
-![image](https://user-images.githubusercontent.com/92098387/174151881-1df5ab15-83a4-4ac8-a19c-f8b8d7cfe973.png)
+<p align="center">
+  <img width="300" height="200" src="https://user-images.githubusercontent.com/92098387/174151881-1df5ab15-83a4-4ac8-a19c-f8b8d7cfe973.png">
+</p>
+
 
 # Modeling and file export
 
@@ -48,8 +51,9 @@ Stl specific files. obs. or amf. For this we must choose one of the many softwar
 computer-aided design (CAD), such as SolidWorks, Catia, Autodesk Fusion
 360...
 
-
-![digitalisation_FDT_Schnittstellen_04_w444](https://user-images.githubusercontent.com/92098387/174299458-44180e43-8546-492b-b395-fdedae9d1f44.png)
+<p align="center">
+  <img width="400" height="400" src="https://user-images.githubusercontent.com/92098387/174299458-44180e43-8546-492b-b395-fdedae9d1f44.png">
+</p>
 
 # Slice the 3D object
 
@@ -60,8 +64,9 @@ than controlling the different parameters of the machine.
 G code is a machine tool command language that includes instructions for
 piloting , is the language known by the majority of CNC machines.
 
-
-![11](https://user-images.githubusercontent.com/92098387/174299826-5168c1b8-bd76-4b50-8700-00d8ced0d64c.png)
+<p align="center">
+  <img width="400" height="400" src="hhttps://user-images.githubusercontent.com/92098387/174299826-5168c1b8-bd76-4b50-8700-00d8ced0d64c.png">
+</p>
 
 
 
