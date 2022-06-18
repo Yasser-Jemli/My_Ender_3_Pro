@@ -294,7 +294,44 @@ Although you don’t need them, you may also want to have the following material
     Compatible Pi screen (for an attachable direct interface)
     3D printed Pi case (to protect your board and make it look good!)
 
+The first step is to flash the OctoPi software onto your microSD card. While this process can be summed up in one sentence, it’s a little more complicated than that.
 
+You can follow the steps below or, for more board-specific instructions, you can check out our installation tutorials for some of the most popular boards, like the Raspberry Pi 4 or 3B+. The steps below are described for a computer running Windows, but the process for a Mac is very similar.
+
+<br />  1 .Insert your 16+ GB microSD card into your internet-connected device with Raspberry Pi Imager installed.
+<br />  2 .Download the latest stable version of OctoPi from OctoPrint’s website. It will download as a zip file, so you’ll need to extract the contents.
+<br />  3 .Locate the extracted folder, open it, and right-click the disk image file. Select “Open with” and choose “Raspberry Pi Imager”.
+<br />  4 .Once you do this, the Raspberry Pi Imager program may ask you if it’s permitted to make changes, and you should click “Yes”. The Raspberry Pi Imager application will open, and below the “Operating System” label should read the long name of the disk image file.
+
+ <br /> 5 .Choose your inserted microSD card for the “Storage” tab, and then click “Write”. The flashing process will take a few minutes.
+ <br /> 6 .Once complete, you’ll be prompted by your device to format the microSD card. Close this pop-up and don’t click “Yes” as formatting the disk will erase everything on it.
+<br />  7 .Open your device’s file explorer and verify that your inserted storage device has the OctoPi configuration files. If it doesn’t, try reflashing the OctoPi files onto the microSD card.
+
+Although you have the OctoPi files on the storage device, don’t insert it into your Raspberry Pi board just yet. We still need to establish a network connection, which we’ll go over how to do in the next section.
+
+Now that you’ve loaded your microSD card with the OctoPi files, it’s time to connect your Raspberry Pi to the internet. You can do this in two ways: over Ethernet or Wi-Fi.
+
+The main difference is that, for Ethernet, you simply plug an Ethernet cable (connected to a Wi-Fi router) into your Raspberry Pi board. Ethernet will also most likely have a stronger, more reliable connection than a wireless connection. However, your Pi will need to stay within the cable’s length of your router. Wi-Fi works great too, and you shouldn’t notice a significant difference.
+
+If you want to use a wireless Wi-Fi connection, you can follow the steps below for a Windows computer, and the process is very similar on a Mac.
+
+
+<br />  1 .Insert your microSD card into your internet-connected device. Be sure to disregard and close the pop-ups asking you to format the microSD card.
+<br />  2 .Open the file explorer on your device and locate the file labeled “octopi-wpa-supplicant” on the microSD card. Right-click this file, move your cursor over “Open with,” and select “Notepad” or another basic text editor.
+<br />  3 .Check the type of encryption of the Wi-Fi network you want your Raspberry Pi to connect to. (For most private networks, this will be a WPA or WPA2 secured network.)
+<br />  4 .Scroll down to where the text reads “WPA/WPA2 secured”, or to the type of network you’ll be using (“Open/unsecured”, “WEP”) and uncomment (delete the initial ‘#’ from) the four lines that start with a single ‘#’.
+ <br /> 5 .Locate the “Properties” of the Wi-Fi network you want to connect your Pi to. (To view the properties of a network, you have to be connected to it, so make sure your device is connected to the Wi-Fi network.)
+
+![image](https://user-images.githubusercontent.com/92098387/174435391-51523b95-3c2e-4201-aa40-37ec06b43dd7.png)
+
+
+ <br />  1 .   Copy the “SSID” from the network properties list and paste it in the Notepad file where the text reads “put SSID here”.
+    Type the password to replace where the text reads “put password” here.
+    Where the file includes a list of “country=” lines, uncomment the ‘#’ in front of your country name, and make sure there’s a ‘#’ in front of the other countries that you’re not in.
+    Save the Notepad file, making sure it overwrites the file on the microSD card.
+    Eject the microSD card from your device.
+
+Now that you’ve added network credentials to your OctoPi configuration files, you can move on to the next step: booting up!
 
 # ENERGY CONSUMPTION :
 
