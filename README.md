@@ -245,7 +245,7 @@ compatible with food contact
 </pre>
 
 
-
+ 
 # 5. Resins
 
 Used in the SLA process, resins offer different physical properties specific to
@@ -279,15 +279,9 @@ Biodegradable, a simple passage in water eliminates it
 </pre>
 
 
-<pre>
+```diff
 
-<span style="color: red">  # you must put on your gloves when working with the 3D printer in the bed or for removing parts or something similar </span>
-
-
-</pre>
-
-
-# you must put on your gloves when working with the 3D printer in the bed or for removing parts or something similar
+- # you must put on your gloves when working with the 3D printer in the bed or for removing parts or something similar
 
 
 # To work with ABS
