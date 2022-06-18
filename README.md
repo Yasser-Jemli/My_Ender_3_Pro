@@ -30,11 +30,9 @@ https://user-images.githubusercontent.com/92098387/174289375-d6a9af0a-9206-4e45-
 
 # General introduction 
 
-<pre>
 
 https://user-images.githubusercontent.com/92098387/174294693-611de60c-07ed-428f-bda5-bfd42ed3401e.mp4
 
-</pre>
 
 3D printing is a so-called additive manufacturing technique which proceeds by adding material, unlike techniques proceeding by removing material,
 such as machining. 3D printing makes it possible to produce everyday objects, spare parts or even prototypes intended for testing. 
