@@ -183,7 +183,7 @@ ALS.
 <pre>
 
 <p align="center">
-  <img width="500" height="500" src="(https://user-images.githubusercontent.com/92098387/174297917-c51f5483-f845-48ad-9366-1642075d2e7a.jpg">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/92098387/174297917-c51f5483-f845-48ad-9366-1642075d2e7a.jpg">
 </p>
 
 </pre>
