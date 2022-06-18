@@ -12,12 +12,11 @@ https://user-images.githubusercontent.com/92098387/174289375-d6a9af0a-9206-4e45-
 </p>
 
 <p align="center">
-  <img width="460" height="500" src="https://user-images.githubusercontent.com/92098387/174154051-cd27ecc0-6ab9-470f-9e42-712e59261171.jpg">
+  <img width="760" height="500" src="https://user-images.githubusercontent.com/92098387/174154051-cd27ecc0-6ab9-470f-9e42-712e59261171.jpg">
 </p>
 
 
 
-![3d](https://user-images.githubusercontent.com/92098387/174154051-cd27ecc0-6ab9-470f-9e42-712e59261171.jpg)
 
 
 
