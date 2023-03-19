@@ -3,6 +3,7 @@
 so this a repository that will reduce your time and your efforts in order to make 3D modeles came to Life 
 in this Repository i will help you make your 3D printing more Effective and share some problems that i have 
 i will share here all the problem that i face ,, how i figure it out and how you sould work with your 3D printer the Ender-3-pro 
+Please if you have any feedback about this feel free to contact me .. 
 
 
 
